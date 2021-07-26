@@ -1,0 +1,18 @@
+{
+  "name": "@ngx-ext/take-until-destroyed",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "ng build take-until-destroyed --prod"
+  },
+  "peerDependencies": {
+    "@angular/common": ">= 2",
+    "@angular/core": ">= 2",
+    "rxjs": ">= 6"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "devDependencies": {
+    "rxjs": "latest"
+  }
+}
